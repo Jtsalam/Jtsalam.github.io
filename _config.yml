@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "light"
+site_theme               : "default"
 title                    : "Jesutobiloba Salam"
 title_separator          : "-"
 name                     : &name "Jesutobiloba Salam"
@@ -61,7 +61,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "light"
+    colorscheme          : "default"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
