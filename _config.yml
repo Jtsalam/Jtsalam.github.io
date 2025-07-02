@@ -25,8 +25,8 @@ author:
   avatar           : "profile_pic.jpeg"
   name             : "Jesutobiloba Salam"
   pronouns         : "he/him"
-  bio              : "Chair, Artificial Intelligence Saskatchewan Student Network, Computer Science student at the University of Saskatchewan. My interests lie in making Full Stack Artificial Intelligence and Machine learning solutions through the combination robust engineering and thorough research."
-  location         : "Saskatoon, Saskatchewan"
+  bio              : "Chair of the AI Saskatchewan Student Network and Computer Science student at the University of Saskatchewan, passionate about building full-stack AI/ML solutions through strong engineering and deep research."
+  location         : ""
   employer         : 
   uri              : # URL
   email            : "micheal.salam@usask.ca"
@@ -34,12 +34,12 @@ author:
   # Academic websites
 
   # Repositories and software development
-  github           : "https://github.com/jtsalam"
+  github           : "jtsalam"
   kaggle           : # Username  
 
   # Social media
   linkedin         : "jesutobiloba-salam"
-  medium           : "https://medium.com/@Jesutobiloba_"
+  medium           : ""
   youtube          : "jesutobilobasalam9673"
 
 # Publication Category - The following the list of publication categories and their headings
