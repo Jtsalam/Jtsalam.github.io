@@ -18,6 +18,6 @@ As Chair, I take on the responsibility of organizing events that inspire student
 
 One highlight of my journey so far has been participating in hackathons. A memorable one was the [Cultivator's 24-Hour Startup Hackathon](https://www.linkedin.com/feed/update/urn:li:activity:7294478916356911104/), where my team and I won 'Best Tech' for developing a social media app powered by content-based recommendation algorithms to boost user engagement.
 
-Outside the world of code and AI, I’m a passionate [Saxophonist](https://www.youtube.com/channel/UClTrHHpleJyHqA7N7Fnz1Dw?app=desktop who enjoys creating music that moves people. Whether it's jazz, gospel, or something in between, playing the sax is one of the ways I recharge and express creativity in a completely different form.
+Outside the world of code and AI, I’m a passionate [Saxophonist](https://www.youtube.com/channel/UClTrHHpleJyHqA7N7Fnz1Dw?app=desktop) who enjoys creating music that moves people. Whether it's jazz, gospel, or something in between, playing the sax is one of the ways I recharge and express creativity in a completely different form.
 
 When I’m not coding or making music, you’ll probably find me solving Rubik’s cubes or passionately supporting my favorite football team, [Manchester United](https://www.manutd.com/en)! I believe in bringing the same focus, energy, and joy from my hobbies into everything I do including building tech that matters.
