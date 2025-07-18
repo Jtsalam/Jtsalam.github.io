@@ -14,7 +14,7 @@ My passion lies in building full-stack Artificial Intelligence and Machine Learn
 
 I’m also fortunate to serve as the Chair of the [Artificial Intelligence Saskatchewan Student Network](https://www.linkedin.com/feed/update/urn:li:activity:7296044913526247425/)- a student-led subsidiary of [AiSK](https://www.aisk.ca/), Our mission is to build a thriving ecosystem of AI enthusiasts across post-secondary institutions in Saskatchewan. Through workshops, technical events, and community engagement, we aim to connect students with the fast-evolving AI landscape.
 
-As Chair, I take on the responsibility of organizing events that inspire students to go beyond textbooks—events that expose them to the practical, hands-on side of AI. From foundational topics to cutting-edge tools, I love seeing peers grow confident in building their own projects and asking big questions about the future of tech.
+As Chair, I take on the responsibility of organizing events that inspire students to go beyond textbooks; events that expose them to the practical, hands-on side of AI. From foundational topics to cutting-edge tools, I love seeing peers grow confident in building their own projects and asking big questions about the future of tech.
 
 One highlight of my journey so far has been participating in hackathons. A memorable one was the [Cultivator's 24-Hour Startup Hackathon](https://www.linkedin.com/feed/update/urn:li:activity:7294478916356911104/), where my team and I won 'Best Tech' for developing a social media app powered by content-based recommendation algorithms to boost user engagement.
 
