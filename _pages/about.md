@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jesutobiloba Salam"
+title: "Tobi Salam"
 excerpt: About me
 author_profile: true
 redirect_from: 
