@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently in my second year pursuing a Computer Science degree at the University of Saskatchewan, with a specialization in Artificial Intelligence. It's been a rewarding journey so far, diving deep into the theory behind computation while also exploring how to build systems that learn, adapt, and make decisions.
+I'm currently in my third year pursuing a Computer Science degree at the University of Saskatchewan, with a specialization in Artificial Intelligence. It's been a rewarding journey so far, diving deep into the theory behind computation while also exploring how to build systems that learn, adapt, and make decisions.
 
 My passion lies in building full-stack Artificial Intelligence and Machine Learning solutions that blend solid software engineering with practical AI research. I'm constantly fascinated by how these technologies can be applied to solve real-world problems, especially those that directly affect my community and the people around me.
 
