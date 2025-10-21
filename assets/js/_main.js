@@ -3,6 +3,9 @@
    ========================================================================== */
 
 $(document).ready(function () {
+  // Check if we're on a CV page that should force light theme
+  const isCVPage = $("body").hasClass("cv-layout") || $("html").attr("data-theme") === "light";
+  
   // detect OS/browser preference
   const browserPref = window.matchMedia('(prefers-color-scheme: dark)').matches
     ? 'dark'
@@ -10,6 +13,13 @@ $(document).ready(function () {
 
   // Set the theme on page load or when explicitly called
   var setTheme = function (theme) {
+    // If we're on a CV page, always use light theme
+    if (isCVPage) {
+      $("html").attr("data-theme", "light");
+      $("#theme-icon").removeClass("fa-moon").addClass("fa-sun");
+      return;
+    }
+    
     const use_theme =
       theme ||
       localStorage.getItem("theme") ||
@@ -31,13 +41,18 @@ $(document).ready(function () {
   window
     .matchMedia('(prefers-color-scheme: dark)')
     .addEventListener("change", (e) => {
-      if (!localStorage.getItem("theme")) {
+      if (!localStorage.getItem("theme") && !isCVPage) {
         setTheme(e.matches ? "dark" : "light");
       }
     });
 
   // Toggle the theme manually
   var toggleTheme = function () {
+    // Don't allow theme toggle on CV pages
+    if (isCVPage) {
+      return;
+    }
+    
     const current_theme = $("html").attr("data-theme");
     const new_theme = current_theme === "dark" ? "light" : "dark";
     localStorage.setItem("theme", new_theme);
