@@ -5,6 +5,11 @@
 $(document).ready(function () {
   // Check if we're on a CV page that should force light theme
   const isCVPage = $("body").hasClass("cv-layout") || $("html").attr("data-theme") === "light";
+
+  // If on a CV page, always set icon to sun at the start
+  if (isCVPage) {
+    $("#theme-icon").removeClass("fa-moon").addClass("fa-sun");
+  }
   
   // detect OS/browser preference
   const browserPref = window.matchMedia('(prefers-color-scheme: dark)').matches
