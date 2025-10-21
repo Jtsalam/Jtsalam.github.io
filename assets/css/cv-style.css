@@ -1,10 +1,30 @@
-/* CV Template Styles */
+/* CV Template Styles - Force Light Theme */
 .cv-container {
   max-width: 1000px;
   margin: 0 auto;
   font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  color: #333;
+  color: #333 !important;
   line-height: 1.6;
+  background-color: #fff !important;
+}
+
+/* Override any dark theme styles for CV */
+.cv-container * {
+  color: inherit !important;
+}
+
+.cv-container h1,
+.cv-container h2,
+.cv-container h3 {
+  color: #2a7ae2 !important;
+}
+
+.cv-container a {
+  color: #2a7ae2 !important;
+}
+
+.cv-container a:hover {
+  color: #1756a9 !important;
 }
 
 /* Header Styles */

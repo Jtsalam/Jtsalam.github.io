@@ -1,9 +1,11 @@
-/* CV Layout Specific Styles */
+/* CV Layout Specific Styles - Force Light Theme */
 .cv-header-nav {
   padding: 1rem 0;
   text-align: center;
   margin-bottom: 2rem;
   border-bottom: 1px solid #f2f2f2;
+  background-color: #fff !important;
+  color: #333 !important;
 }
 
 .cv-header-nav .home-button {
@@ -38,4 +40,28 @@
 
 .cv-download-links a {
   margin: 0 0.5rem;
+}
+
+/* Force light theme for entire CV page */
+body.cv-layout {
+  background-color: #fff !important;
+  color: #333 !important;
+}
+
+body.cv-layout .page__footer {
+  background-color: #f2f3f3 !important;
+  color: #333 !important;
+}
+
+body.cv-layout .masthead {
+  background-color: #fff !important;
+  border-bottom: 1px solid #f2f2f2 !important;
+}
+
+body.cv-layout .masthead a {
+  color: #333 !important;
+}
+
+body.cv-layout .masthead a:hover {
+  color: #2a7ae2 !important;
 }
